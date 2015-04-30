@@ -104,6 +104,7 @@ The [papers](https://github.com/kbandla/APTnotes/blob/master/papers.md) section 
 * Apr 01 - [Trojan.APT.BaneChant](http://www.fireeye.com/blog/technical/malware-research/2013/04/trojan-apt-banechant-in-memory-trojan-that-observes-for-multiple-mouse-clicks.html)
 * Apr 13 - ["Winnti" More than just a game](http://www.securelist.com/en/downloads/vlpdfs/winnti-more-than-just-a-game-130410.pdf)
 * Apr 24 - [Operation Hangover](http://normanshark.com/pdf/Norman_HangOver%20report_Executive%20Summary_042513.pdf)
+* May 1 - [The Commercialization of Digital Spying] (https://citizenlab.org/2013/04/for-their-eyes-only-2/)
 * May ?? - [Operation Hangover](https://www.bluecoat.com/security-blog/2013-05-20/hangover-report)
 * May 30 - [TR-14 - Analysis of a stage 3 Miniduke malware sample](http://www.circl.lu/pub/tr-14/)
 * Jun ?? - [The Chinese Malware Complexes: The Maudi Surveillance Operation](https://bluecoat.com/documents/download/2c832f0f-45d2-4145-bdb7-70fc78c22b0f&ei=ZGP-VMCbMsuxggSThYDgDg&usg=AFQjCNFjXSkn_AIiXge1X9oWZHzQOiNDJw&sig2=B6e2is0sCnGEbLPL9q0eZg&bvm=bv.87611401,d.eXY)
